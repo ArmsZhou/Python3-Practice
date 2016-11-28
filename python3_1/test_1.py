@@ -80,3 +80,50 @@ while num < 10:
 # for ... in
 for x in range(1, 10):
     print(x)
+
+# 异常处理
+# try:
+#     pass
+# except Exception as e:
+#     raise
+# else:
+#     pass
+# finally:
+#     pass
+
+# + - * /
+# / 除法会产生一个浮点值，而不是整数值，这与多数程序设计语言不同。
+
+# +=
+a = 1
+a += 2
+print(a) # 3
+
+a = 'abc'
+a += 'd'
+print(a) # abcd
+
+a = ['a', 'b']
+a += 'c'
+print(a) # ['a', 'b', 'c']
+
+# += 列表+=操作符右边的操作数必须是一个 iterable 类型
+# a = [1, 2]
+# a += 3
+# print(a)
+
+from collections import Iterable
+a = [1, 2]
+b = [3]
+print('b is iterable?', isinstance(b, Iterable)) # b is iterable? True
+a += b
+print(a) # [1, 2, 3]
+
+# 注意 对字符串的+=操作可能会的得到一个看起来奇怪但合乎逻辑的结果。
+a = ['Aa', 'Bb']
+a += 'Cc'
+print(a) #['Aa', 'Bb', 'C', 'c']
+
+# 函数 每个函数都有一个返回值，默认是 None. Python 有大量内置函数，大多时候只需要直接使用。
+import sys
+print(sys.argv)
