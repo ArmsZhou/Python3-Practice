@@ -1,0 +1,176 @@
+3046|3.0接口-投资-获取投资列表|Invest.ProjectList
+3047|3.0接口-投资-获取项目详情|Invest.ProjectInfo
+3048|3.0接口-投资-项目创建订单|Invest.CreateOrder
+3049|3.0接口-投资-项目支付|Invest.PayOrder
+3050|3.0接口-投资-我的投资收益|
+3051|3.0接口-信用惠-获取我的信用消费记录|
+3052|3.0接口-预约投标-项目列表|My.BookingProjectList
+3053|3.0接口-预约投标-投标 |My.Booking
+3054|3.0接口-预约投标-记录列表 |My.BookingRecordList
+3055|3.0接口-预约投标-取消预约 |My.CancelBookingRecprd
+3056|3.0接口-预约投标-当前摇钱宝最大预约额 |My.SMMaxBookingAmout
+3057|3.0接口-投资-获取投资首页列表 |Invest.ProjectHomeList
+3058|3.0接口-投资-获取最近回款的投资资产 |My.LastInvest
+3059|3.0接口-投资-我的投资项目列表 |My.InvestList
+3060|3.0接口-投资-投资项目详情 |My.OrderDetail
+3061|3.0接口-我的-检测用户是否有优惠券 |My.CheckCoupon
+3062|3.0接口-我的-优惠券列表 |My.Coupons
+3063|3.0接口-我的-face++- 身份证信息认证|My.IDCardAuth
+3064|3.0接口-我的-face++- 人脸识别|My.FaceRecognition
+3065|3.0接口-我的-设置支付密码|My.SetPayPwd
+3066|3.0接口-我的-验证码登录|My.SMSCodeLogin
+3067|3.0接口-我的-密码登录|My.PwdLogin
+3068|3.0接口-我的-获取验证码|My.VerifyCode
+3069|3.0接口-我的-检查支付密码是否正确|My.CheckPayPwd
+3070|3.0接口-投资-检查下订单条件|Invest.CheckCreateOrder
+3071|3.0接口-我的-银行卡列表|My.BankCard
+3072|3.0-信用惠-获取购物车商品数量|Mall.MyCartNum
+3073|3.0-信用惠-我的购物车|Mall.MyCart
+3074|3.0-信用惠-修改购物车商品数量|Mall.ModifyMyCart
+3075|3.0-信用惠-购物车结算检测|Mall.CheckCartSubmitOrder
+3076|3.0-信用惠-获取默认收货地址接口|
+3077|3.0-信用惠-商品详情接口|Mall.ProductInfo
+3078|3.0-信用惠-获取话费/加油卡详情|Mall.RechargeInfo
+3079|3.0-信用惠-商品下订单检测|Mall.CheckProductSubmitOrder
+3080|3.0-信用惠-提交订单接口|Mall.SubmitOrder
+3081|3.0-信用惠-提交订单接口(直充类型，手机，油卡)|Mall.RechargeSubmitOrder
+3082|3.0-信用惠-确认支付接口（不再使用短信验证码）|Mall.Pay
+3083|3.0-信用惠-删除购物车商品接口|Mall.DeleItemInCart
+3084|3.0-信用惠-获取收件地址接口|Mall.MyAddress
+3085|3.0-信用惠-添加收件地址接口|Mall.AddAddress
+3086|3.0-信用惠-删除收件地址接口|Mall.DeleteAddress
+3087|3.0-信用惠-修改收件地址接口|Mall.UpdateAddress
+3088|3.0-信用惠-获取我的订单|Mall.MyOrder
+3089|3.0-信用惠-我的订单详情|Mall.OrderInfo
+3090|3.0-信用惠-取消订单|Mall.CancelOrder
+3091|3.0-信用惠-申请退款|Mall.Refund
+3092|3.0-信用惠-确认收获|Mall.ConfirmReceipt
+3093|3.0-信用惠-删除订单|Mall.DeleteOrder
+3094|3.0-信用惠-优惠券|Mall.Coupons
+3095|3.0-信用惠-我的信用|Mall.MailInfo
+3096|3.0-信用惠-关注商品或则商户|Mall.Favorite
+3097|3.0-信用惠-我的关注(商品)|Mall.FavoriteProducts
+3098|3.0-信用惠-我的关注(商户)|Mall.FavoriteSuppliers
+3099|3.0-信用惠-取消关注商品或则商户|Mall.CancelFavorite
+3100|3.0-信用惠-检查优惠券数量|Mall.CheckCoupon
+3101|3.0-信用惠-我的礼品卡列表|Mall.GiftCard
+3102|3.0-信用惠-我的礼品卡类别|Mall.GiftCardCategory
+3103|3.0-信用惠-删除礼品卡|Mall.DeleteGiftCard
+3104|3.0-信用惠-礼品卡详情|Mall.GiftCardDetail
+3105|3.0-信用惠-省，市，区，街道|Mall.Provinces
+3106|3.0-信用惠-区域是能送货|Mall.CheckAddressDeliver
+3107|3.0-信用惠-指定零元商品是否被领取接口|Mall.HasProductOrder
+3108|3.0-信用惠-添加商品到购物车接口|Mall.AddItemInCart
+3109|3.0-信用惠-商品或商户是否被关注|Mall.HasFavorite
+3110|3.0-信用惠-获取省，市，区id|Mall.AreaId
+3111|3.0-信用惠-我的订单相关数量数据|Mall.MyOrderAmount
+3112|3.0-我的-获取用户基本信息|My.BaseInfo
+3113|3.0-我的-获取我的特殊字段的数量和开通情况|My.CheckBaseInfo
+3114|3.0-我的-获取我的消息已读数量的设置|My.SetReadMessage
+3115|3.0-我的-所有优惠券列表|My.AllCoupons
+3116|3.0-我的-设置登录密码|My.SetLoginPwd
+3117|3.0-我的-修改登录密码|My.UpdateLoginPwd
+3118|3.0-我的-修改支付密码|My.UpdatePayPwd
+3119|3.0-我的-注册|My.Register
+3120|3.0-我的-删除银行卡(解绑)|My.DeleBankCard
+3121|3.0-我的-开户行列表|Metadata.BankList
+3122|3.0-我的-开户支行列表|MetaData.BranchBankList
+3123|3.0-我的-修改用户头像|My.ModifyUserAvatar
+3124|3.0-我的-修改用户昵称|My.ModifyNickname
+3125|3.0-我的-修改用户邮箱|My.ModiEmail
+3126|3.0-我的-修改用户手机号|My.ModiMobile
+3127|3.0-我的-申请加入企业|My.JoinCorpApply
+3128|3.0-我的-退出企业|my.QuitCorp
+3129|3.0-我的-退出申请|my.UndoJoinApply
+3130|3.0-我的-企业开通相关信息|my.CorpInfo
+3131|3.0-我的-活动中心(App全局活动)|App. ActivitieList
+3132|3.0-我的-获取分享接口信息|
+3133|3.0-我的-获取红包列表|My.GetMRPList
+3134|3.0-我的-红包提现|my.WithdrawRP
+3135|3.0-我的-获取申请时间及到账时间|my. GetRPCashTime
+3136|3.0-我的-检测红包对应指定银行卡号|my.CheckDrawRPBankCard
+3137|3.0-我的-账户安全中心(安全等级)|My.SecureLevel
+3138|3.0-我的-实名认证(3.0 e+)|My.AuthIdEPlus
+3139|3.0-我的-我的授信信息|My.CreditExInfo
+3140|3.0-我的-基本还款信息|CreditEx.RepaymentInfo
+3141|3.0-我的-还款记录|CreditEx.RepayRecordList
+3142|3.0-我的-账单信息|
+3143|3.0-我的-确认还款|CreditEx.ConfirmRepay
+3144|3.0-我的-设置还款银行卡|CreditEx.SetRepayBankCard
+3145|3.0-我的-获取或刷新最新消息|Msg.MyMessage
+3146|3.0-我的-获取或刷新消息列表|
+3147|3.0-首页-首页广告数据|App.HomeInfo
+3148|3.0-投资-投资项目进度|Invest.ProjectTenderProgress
+3149|3.0-我的-授信账单详情|
+3150|3.0-我的-还款银行卡信息|CreditEx.RepayBankCardInfo
+3151|3.0-我的-员工贷基本信息|EmployeeLoan.Info
+3152|3.0-闪惠-全局配置分期列表|Mall.GlobalPeriodization
+3153|3.0-首页-公共广告位列表|App.CommonAdListV3
+3154|3.0-我的-获取我的投资信用与授信信用|My.Credit
+3155|3.0-我的-支付确认页面信息|My.PayConfirmInfo
+3156|3.0-投资-投资成功信息|Invest.PaySucessInfo
+3157|3.0-员工贷-上传身份证图片|CreditEx.UploadIdCardPhoto
+3158|3.0-员工贷-确认提交身份证|CreditEx.ConfirmUploadIdCard
+3159|3.0-车险-车险分期支付|VehicleInsurance.PayOrder
+3160|3.0-我的-意见反馈|App.Feedback
+3161|3.0-员工贷-我上传的身份证图片|CreditEx.MyUploadIdCardPhotos
+3162|3.0-我的-APP 启动统计接口|Statistics.launch
+3163|3.0-摇钱宝－摇一摇|MoneyShake.Shake
+3164|3.0-摇钱宝－加息后分享再加息|MoneyShake.ShareAddInterest
+3165|3.0-启动-动态配置信息|App.GlobalConfigs
+3166|3.1-微信-获取第三方账号列表|My.GetBindingSnsAccountList
+3167|3.1-微信-已登录用户绑定微信|My.BindSnsPlat
+3168|3.1-微信-微信登录|My.SnsPlatLogin
+3169|3.1-微信-检测第三方账号是否绑定了手机号|My.CheckHasBindSnsPlat
+3170|3.1-微信-5.5.17.5 第三方账号与手机号绑定|My.SnsPlatBindMobile
+3171|3.1-微信-解绑微信|My.UnBindSnsPlat
+3172|3.1-摇钱宝-加息后分享再摇奖机会|MoneyShake.ShareAddShakeTimes
+3173|3.1-摇钱宝-摇钱宝余额提示|MoneyShake.RemainderTips
+3174|3.1摇钱宝-摇钱宝存入取出功能基本状态信息|MoneyShake.AccessInfo
+3175|3.1-摇钱宝-摇钱宝背景图和形象图|MoneyShake.ShakeImgs
+3176|3.1-摇钱宝- 摇钱宝存入，取出详情银行卡信息|MoneyShake.RecordBankInfo
+3177|3.1-摇钱宝-摇钱宝存入取出支付前检测金额|MoneyShake.CheckPayAmount
+3178|3.1-全局公告|App.HomeNotices
+3179|3.1-公共图片上传功能|App.UploadFile
+3180|3.1.1-信用惠-申请退货|Mall.ApplicationReturn
+3181|3.1.1-信用惠-申请退货页面信息检测|Mall.CheckApplicationReturnInfo
+3182|3.1.1-信用惠-申请过程流程中的售后进度|Mall.AfterSaleProgress
+3183|3.1.1-信用惠-设置退货商品收货地址接口|Mall.ProductReturnAddress
+3184|3.1.1-信用惠-设置退货商品收货地址接口|Mall.SetReturnAddress
+3185|3.1.1-信用惠-取消售后进度的申请|Mall.CancelAfterSaleProgress
+3186|3.1.1-信用惠-申请过后的售后进度|Mall.AfterSaleProgress
+3187|3.1.1-我的-检测支付密码是否正确|
+3188|3.1.1-我的-检测验证码是否正确|My.CheckVerifyCode
+3189|3.1.1-我的-手机号是否注册过|My.CheckMobileRegister
+3190|3.1.1-授信-手动还款确认还款|CreditEx.ConfirmRepay
+3191|3.1.1-授信-月度账单列表|CreditEx.PeriodizationInfoList
+3192|3.1.1-授信-月度账单下的订单列表|CreditEx.PeriodizationOrderList
+3193|3.1.1-授信-账单明细详情|CreditEx.PeriodizationOrderDetail
+3194|3.1.1-信用惠-我的单张银行卡信息|My.BankcardInfo
+3195|3.1.1-信用惠-信用惠-获取我的订单311|Mall.MyOrderV311
+3196|3.1.1-信用惠-对应下单收货地址|Mall.DefaultAddress
+3197|3.1.1-信用惠-我的订单详情311|Mall.OrderInfoV311
+3198|3.1.1-信用惠-授信账单列表|CreditEx.BillDetailsList
+3199|3.1.1-授信-手动还款结果详情|CreditEx.RepayResult
+3200|3.1.3-信用惠-闪惠首页顶部栏目获取|Mall.HomeChannels
+3201|3.1.2-我的-版本检查更新|App.Upgrade
+3202|3.1.4-银行卡管理-特定银行卡信息|CreditEx.SpecialBankCard
+3203|3.1.4-我的-通用支付接口|App.Pay
+3204|3.2.0公共支付组件-支付控件布局与数据接口|App.PayLayout
+3205|3.2.0-公共支付组件-公共支付接口|App.CommonPay
+3206|3.2.0-公共支付组件-通用银行卡列表|
+3207|3.2.0-投资-获取优惠券可用投资列表|Invest.CouponProjectList
+3208|3.2.0-投资-投资首页广告数据|
+3209|3.2.0-我的-设置数字密码|My.SetDigitPwd
+3210|3.2.0-我的-修改数字密码|My.UpdateDigitPwd
+3211|3.2.0-我的-关闭数字密码|My.OpenDigitPwd
+3212|3.2.0-我的-检查密码是否正确|
+3213|3.2.0-我的-银行卡相关的热门城市|Metadata.HotCitys
+3214|3.2.0-我的-根据城市推荐银行信息|Metadata.RecommendBankInfo
+3215|3.2.0-我的-摇钱宝右上角分享|ShakeMoney.ShareInfo
+3216|3.2.0-我的-闪惠支付成功以后要显示的信息|
+3217|3.2.0-我的-通过城市名获取城市，省份编号信息|Metadata.HotCityInfo
+3218|3.2.0-我的-设置指纹密码|My.SetFingerPwd
+3219|3.1.5-我的-修改用户推荐人|My.ModiRecommender
+3220|3.1.5-我的-是否显示输入推荐人|App.ShowRecommender
+3221|3.2.0-检测投资条件|Invest.CheckInvest
